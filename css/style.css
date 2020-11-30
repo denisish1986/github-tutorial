@@ -1,4 +1,13 @@
-*{
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  background: black;
+}
+.great-boy {
+  padding-left: 40px;
+  padding-top: 40px;
+  color: blue;
+}
